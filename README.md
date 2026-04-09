@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_0.jpg" alt="Yunara / Kinkou" width="900" style="border-radius: 10px; opacity: 0.85;">
+  <img src="https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/profile-icons/0.jpg" alt="Yunara Splash Placeholder" width="900" style="border-radius: 10px; opacity: 0.15;">
   <br><br>
   <h1>🗡️ YUNARA MASTER WIKI & SYSTEM OS 🗡️</h1>
   <p><b>The Unbroken Faith - High Elo Transcendent ADC Engine</b></p>
@@ -85,34 +85,160 @@
 </div>
 
 <br><br><br>
+<br><br>
+<h2 align="center">📘 MACRO-STRATEGY & LANING PROTOCOL 📘</h2>
+<hr width="30%">
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center"><b>Early Game (0-15m)</b></td>
+    <td width="33%" align="center"><b>Mid Game (15-25m)</b></td>
+    <td width="33%" align="center"><b>Late Game (25m+)</b></td>
+  </tr>
+  <tr>
+    <td><p style="font-size: 11px;">Sobrevive. Utiliza Q (Unleash) solo cuando esté al máximo de cargas para un trade óptimo. Tu daño es bajo hasta que tengas tu primer objeto core (Kraken). Si un all-in te alcanza, usa E (Shadow Step) prematuramente solo para ganar velocidad de movimiento (Ghosted) y salir del rango efectivo.</p></td>
+    <td><p style="font-size: 11px;">Tu punto de quiebre. Tu pasiva de daño híbrido por crítico empieza a derretir targets. Empieza a rotar para dragones. Usa (R) Transcendence para emboscadas. Los primeros 5 segundos de R dictan la victoria de tu equipo por la ráfaga de tu rayo láser frontal (W).</p></td>
+    <td><p style="font-size: 11px;">Yunara se convierte en una hiper-maga de batalla letal. Muévete como un asesino/ADC híbrido: escóndete, actívate con (R), usa el Dash de (E) mejorada, entra y borra toda la frontlane enemiga en 15 segundos exactos.</p></td>
+  </tr>
+</table>
+
+<br><br><br>
 <div align="center">
-  <h2>⚔️ MATCHUP MATRIX & OATHSWORNS ⚔️</h2>
+  <h2>🌟 DATABASE OATHSWORN (10 SUPPORTS) 🌟</h2>
   <hr width="30%">
-  <p><i>Sinergia de Soporte: Enchanters Requeridos para aumentar Stacks.</i></p>
+  <p><i>Sinergia de Soporte: Enchanters REQUERIDOS para aumentar Stacks. Engagers te rinden inútil.</i></p>
 </div>
 <br>
 
 <table width="100%">
   <tr>
-    <td width="20%" align="center" style="background:#1a0f0f;">
+    <td width="20%" align="center" style="background:#261b0f;">
       <br><b>Lulu</b><br><img src="https://img.shields.io/badge/Sinergia-GOD-gold.svg"><hr>
-      <p style="font-size: 11px;"><i>Pix explota la Q Passiva</i></p>
+      <p style="font-size: 11px;"><i>Multiplica Q Stacks</i></p>
+    </td>
+    <td width="20%" align="center" style="background:#261b0f;">
+      <br><b>Milio</b><br><img src="https://img.shields.io/badge/Sinergia-GOD-gold.svg"><hr>
+      <p style="font-size: 11px;"><i>Rango Extra para Pasiva</i></p>
+    </td>
+    <td width="20%" align="center" style="background:#261b0f;">
+      <br><b>Karma</b><br><img src="https://img.shields.io/badge/Sinergia-GOD-gold.svg"><hr>
+      <p style="font-size: 11px;"><i>Shurelya alarga tu Ultimate</i></p>
+    </td>
+    <td width="20%" align="center" style="background:#261b0f;">
+      <br><b>Janna</b><br><img src="https://img.shields.io/badge/Sinergia-GOD-gold.svg"><hr>
+      <p style="font-size: 11px;"><i>Peel Absoluto de Engages</i></p>
+    </td>
+    <td width="20%" align="center" style="background:#261b0f;">
+      <br><b>Renata</b><br><img src="https://img.shields.io/badge/Sinergia-GOD-gold.svg"><hr>
+      <p style="font-size: 11px;"><i>Inmortalidad + Attack Speed</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" align="center" style="background:#0f1a11;">
+      <br><b>Nami</b><br><img src="https://img.shields.io/badge/Sinergia-ALTA-green.svg"><hr>
+      <p style="font-size: 11px;"><i>Burbuja asegura W-Laser</i></p>
     </td>
     <td width="20%" align="center" style="background:#0f1a11;">
-      <br><b>Karma</b><br><img src="https://img.shields.io/badge/Sinergia-ALTA-green.svg"><hr>
-      <p style="font-size: 11px;"><i>Shurelya hiper-escala R</i></p>
+      <br><b>Seraphine</b><br><img src="https://img.shields.io/badge/Sinergia-ALTA-green.svg"><hr>
+      <p style="font-size: 11px;"><i>Poke Extremo Dual</i></p>
     </td>
     <td width="20%" align="center" style="background:#2d1313;">
       <br><b>Nautilus</b><br><img src="https://img.shields.io/badge/Sinergia-BAJA-red.svg"><hr>
+      <p style="font-size: 11px;"><i>Peligroso: Te expone</i></p>
+    </td>
+    <td width="20%" align="center" style="background:#2d1313;">
+      <br><b>Leona</b><br><img src="https://img.shields.io/badge/Sinergia-BAJA-red.svg"><hr>
       <p style="font-size: 11px;"><i>No te da Attack Speed</i></p>
+    </td>
+    <td width="20%" align="center" style="background:#2d1313;">
+      <br><b>Thresh</b><br><img src="https://img.shields.io/badge/Sinergia-BAJA-red.svg"><hr>
+      <p style="font-size: 11px;"><i>Obliga Trades Cortos (Mal)</i></p>
     </td>
   </tr>
 </table>
 
 <br><br>
 <div align="center">
-  <img src="https://quickchart.io/chart?bkg=1A1A1A&c={type:'horizontalBar',data:{labels:['vs%20Ashe','vs%20Draven','vs%20Samira'],datasets:[{label:'Short%20Trade%20(Q%20Stacks)',data:[90,30,80],backgroundColor:'rgba(51,204,255,0.7)'},{label:'All-In%20(Transcendence%20R)',data:[40,100,50],backgroundColor:'rgba(255,51,51,0.7)'}]},options:{title:{display:true,text:'Trade%20vs%20All-In%20(%25%20de%20Dominancia)',fontColor:'white'},legend:{labels:{fontColor:'white'}},scales:{xAxes:[{ticks:{fontColor:'white',min:0,max:100}}],yAxes:[{ticks:{fontColor:'white'}}]}}}" width="600" style="border-radius: 8px;">
-  <p><i>Conclusión: Yunara destruye a Ashe a autoataques de Q largos, pero muere contra All-Ins de Draven.</i></p>
+  <h2>⚔️ MATCHUP MATRIX (15 ADCs VOLATILITY) ⚔️</h2>
+  <hr width="30%">
+  <p><i>Trading Specs Volatility Array</i></p>
+</div>
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="20%" align="center" style="background:#1a0f0f;">
+      <br><b>Draven</b><br><img src="https://img.shields.io/badge/Riesgo-EXTREMO-black.svg"><hr>
+      <p style="font-size: 11px;"><i>Destruye tu Early</i></p>
+    </td>
+    <td width="20%" align="center" style="background:#2d1313;">
+      <br><b>Samira</b><br><img src="https://img.shields.io/badge/Riesgo-ALTO-red.svg"><hr>
+      <p style="font-size: 11px;"><i>Bloquea tu [Q] y Laser</i></p>
+    </td>
+    <td width="20%" align="center" style="background:#2d1313;">
+      <br><b>Nilah</b><br><img src="https://img.shields.io/badge/Riesgo-ALTO-red.svg"><hr>
+      <p style="font-size: 11px;"><i>Divea tu [R] Transcendent</i></p>
+    </td>
+    <td width="20%" align="center" style="background:#2d1313;">
+      <br><b>Tristana</b><br><img src="https://img.shields.io/badge/Riesgo-ALTO-red.svg"><hr>
+      <p style="font-size: 11px;"><i>Burst Inesquivable</i></p>
+    </td>
+    <td width="20%" align="center" style="background:#2d1313;">
+      <br><b>Caitlyn</b><br><img src="https://img.shields.io/badge/Riesgo-ALTO-red.svg"><hr>
+      <p style="font-size: 11px;"><i>No puedes cargar la [Q]</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" align="center" style="background:#26180b;">
+      <br><b>Lucian</b><br><img src="https://img.shields.io/badge/Riesgo-MEDIO-orange.svg"><hr>
+      <p style="font-size: 11px;"><i>Depende del Support</i></p>
+    </td>
+    <td width="20%" align="center" style="background:#26180b;">
+      <br><b>Vayne</b><br><img src="https://img.shields.io/badge/Riesgo-MEDIO-orange.svg"><hr>
+      <p style="font-size: 11px;"><i>Batalla de 15 segundos letal</i></p>
+    </td>
+    <td width="20%" align="center" style="background:#26180b;">
+      <br><b>Kalista</b><br><img src="https://img.shields.io/badge/Riesgo-MEDIO-orange.svg"><hr>
+      <p style="font-size: 11px;"><i>Guarda Láser para Salto</i></p>
+    </td>
+    <td width="20%" align="center" style="background:#26180b;">
+      <br><b>Varus</b><br><img src="https://img.shields.io/badge/Riesgo-MEDIO-orange.svg"><hr>
+      <p style="font-size: 11px;"><i>Usa Dash [E] sobre su [R]</i></p>
+    </td>
+    <td width="20%" align="center" style="background:#26180b;">
+      <br><b>Xayah</b><br><img src="https://img.shields.io/badge/Riesgo-MEDIO-orange.svg"><hr>
+      <p style="font-size: 11px;"><i>Juego neutral hasta Lvl 6</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" align="center" style="background:#132616;">
+      <br><b>Ashe</b><br><img src="https://img.shields.io/badge/Riesgo-BAJO-green.svg"><hr>
+      <p style="font-size: 11px;"><i>Ganas trades de rango libre</i></p>
+    </td>
+    <td width="20%" align="center" style="background:#132616;">
+      <br><b>Jinx</b><br><img src="https://img.shields.io/badge/Riesgo-BAJO-green.svg"><hr>
+      <p style="font-size: 11px;"><i>Ganas All-in puro a Lvl 6</i></p>
+    </td>
+    <td width="20%" align="center" style="background:#132616;">
+      <br><b>Twitch</b><br><img src="https://img.shields.io/badge/Riesgo-BAJO-green.svg"><hr>
+      <p style="font-size: 11px;"><i>Usa W para ralentizar sigilo</i></p>
+    </td>
+    <td width="20%" align="center" style="background:#132616;">
+      <br><b>Ezreal</b><br><img src="https://img.shields.io/badge/Riesgo-BAJO-green.svg"><hr>
+      <p style="font-size: 11px;"><i>Farm gratis de Stacks Q</i></p>
+    </td>
+    <td width="20%" align="center" style="background:#132616;">
+      <br><b>Zeri</b><br><img src="https://img.shields.io/badge/Riesgo-BAJO-green.svg"><hr>
+      <p style="font-size: 11px;"><i>Tu Rayo W ignora minions</i></p>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+<div align="center">
+  <img src="https://quickchart.io/chart?bkg=1A1A1A&c={type:'horizontalBar',data:{labels:['vs%20Ashe','vs%20Draven','vs%20Samira','vs%20Vayne'],datasets:[{label:'Short%20Trade%20(Q%20Stacks)',data:[90,30,10,50],backgroundColor:'rgba(51,204,255,0.7)'},{label:'All-In%20(Transcendence%20R)',data:[40,10,20,80],backgroundColor:'rgba(255,51,51,0.7)'}]},options:{title:{display:true,text:'Math%20Radar:%20Kill%20Pressure%20(%)',fontColor:'white'},legend:{labels:{fontColor:'white'}},scales:{xAxes:[{ticks:{fontColor:'white',min:0,max:100}}],yAxes:[{ticks:{fontColor:'white'}}]}}}" width="600" style="border-radius: 8px;">
+  <p><i>Conclusión Global Matemática: Yunara destruye a Ashe con Daño Mágico Híbrido, pero no tiene opciones contra Draven.</i></p>
 </div>
 <br>
 
